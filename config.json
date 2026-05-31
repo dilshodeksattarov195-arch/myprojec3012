@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercalculate",
+        "uuid": 27851964,
+        "checksum": "mbud1m"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
